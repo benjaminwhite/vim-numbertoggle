@@ -1,6 +1,10 @@
-# numbertoggle
+# numbertoggle (fork)
 
 While Vim's relativenumber option is great, you probably don't want to use it all the time. numbertoggle allows you to quickly toggle between relative and absolute line numbers and cleverly switches when when focus is lost or gained or when switching between normal and insert mode.
+
+## Fork Alterations
+
+This fork changes the start value to be absolute instead of relative.
 
 ## Installation
 

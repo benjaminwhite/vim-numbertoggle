@@ -8,7 +8,7 @@ endif
 let g:loaded_numbertoggle = 1
 let g:insertmode = 0
 let g:focus = 1
-let g:relativemode = 1
+let g:relativemode = 0
 
 " Enables relative numbers.
 function! EnableRelativeNumbers()
